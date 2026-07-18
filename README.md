@@ -11,7 +11,7 @@ By converting raw transactional data into meaningful visualizations, the dashboa
 
 > Dashboard Screenshot
 
-![Retail Sales Dashboard](images/dashboard.png)
+![Retail Sales Dashboard](Retail sales dashboard.png)
 
 
 
